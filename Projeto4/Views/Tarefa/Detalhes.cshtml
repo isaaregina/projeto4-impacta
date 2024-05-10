@@ -1,0 +1,23 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model Tarefa
+
+<h1>Detalhes da Tarefa</h1>
+
+Id: @Model.TarefaId
+<br />
+Nome: @Model.NomeTarefa
+<br />
+Status: @Model.Status
+<br />
+Data de Início: @Model.DataInicio
+<br />
+Data de Conclusão: @Model.DataConclusao
+<br />
+<br />
+
+<a class="btn btn-sm btn-danger" asp-action="Deletar" asp-route-id="@Model.TarefaId">Deletar Registro</a>
+<a asp-action="Index" class="btn btn-sm btn-secondary">Voltar</a>

@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\i.coutinho.de.lima\\source\\repos\\Treinamento IMPACTA\\ListaDeTarefas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8412FD97-4229-45E4-939A-DB9B96E41157}|Projeto4\\Projeto4.csproj|c:\\users\\i.coutinho.de.lima\\source\\repos\\treinamento impacta\\listadetarefas\\projeto4\\views\\tarefa\\tarefafazer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8412FD97-4229-45E4-939A-DB9B96E41157}|Projeto4\\Projeto4.csproj|solutionrelative:projeto4\\views\\tarefa\\tarefafazer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8412FD97-4229-45E4-939A-DB9B96E41157}|Projeto4\\Projeto4.csproj|c:\\users\\i.coutinho.de.lima\\source\\repos\\treinamento impacta\\listadetarefas\\projeto4\\controllers\\tarefacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8412FD97-4229-45E4-939A-DB9B96E41157}|Projeto4\\Projeto4.csproj|solutionrelative:projeto4\\controllers\\tarefacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8412FD97-4229-45E4-939A-DB9B96E41157}|Projeto4\\Projeto4.csproj|c:\\users\\i.coutinho.de.lima\\source\\repos\\treinamento impacta\\listadetarefas\\projeto4\\views\\tarefa\\tarefaconcluida.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8412FD97-4229-45E4-939A-DB9B96E41157}|Projeto4\\Projeto4.csproj|solutionrelative:projeto4\\views\\tarefa\\tarefaconcluida.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8412FD97-4229-45E4-939A-DB9B96E41157}|Projeto4\\Projeto4.csproj|c:\\users\\i.coutinho.de.lima\\source\\repos\\treinamento impacta\\listadetarefas\\projeto4\\views\\tarefa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8412FD97-4229-45E4-939A-DB9B96E41157}|Projeto4\\Projeto4.csproj|solutionrelative:projeto4\\views\\tarefa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8412FD97-4229-45E4-939A-DB9B96E41157}|Projeto4\\Projeto4.csproj|c:\\users\\i.coutinho.de.lima\\source\\repos\\treinamento impacta\\listadetarefas\\projeto4\\models\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8412FD97-4229-45E4-939A-DB9B96E41157}|Projeto4\\Projeto4.csproj|solutionrelative:projeto4\\models\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8412FD97-4229-45E4-939A-DB9B96E41157}|Projeto4\\Projeto4.csproj|c:\\users\\i.coutinho.de.lima\\source\\repos\\treinamento impacta\\listadetarefas\\projeto4\\views\\tarefa\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8412FD97-4229-45E4-939A-DB9B96E41157}|Projeto4\\Projeto4.csproj|solutionrelative:projeto4\\views\\tarefa\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8412FD97-4229-45E4-939A-DB9B96E41157}|Projeto4\\Projeto4.csproj|c:\\users\\i.coutinho.de.lima\\source\\repos\\treinamento impacta\\listadetarefas\\projeto4\\views\\tarefa\\detalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8412FD97-4229-45E4-939A-DB9B96E41157}|Projeto4\\Projeto4.csproj|solutionrelative:projeto4\\views\\tarefa\\detalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8412FD97-4229-45E4-939A-DB9B96E41157}|Projeto4\\Projeto4.csproj|c:\\users\\i.coutinho.de.lima\\source\\repos\\treinamento impacta\\listadetarefas\\projeto4\\views\\tarefa\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8412FD97-4229-45E4-939A-DB9B96E41157}|Projeto4\\Projeto4.csproj|solutionrelative:projeto4\\views\\tarefa\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\i.coutinho.de.lima\\source\\repos\\Treinamento IMPACTA\\ListaDeTarefas\\Projeto4\\Views\\Tarefa\\Index.cshtml",
+              "RelativeDocumentMoniker": "Projeto4\\Views\\Tarefa\\Index.cshtml",
+              "ToolTip": "C:\\Users\\i.coutinho.de.lima\\source\\repos\\Treinamento IMPACTA\\ListaDeTarefas\\Projeto4\\Views\\Tarefa\\Index.cshtml",
+              "RelativeToolTip": "Projeto4\\Views\\Tarefa\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T13:16:55.924Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tarefa.cs",
+              "DocumentMoniker": "C:\\Users\\i.coutinho.de.lima\\source\\repos\\Treinamento IMPACTA\\ListaDeTarefas\\Projeto4\\Models\\Tarefa.cs",
+              "RelativeDocumentMoniker": "Projeto4\\Models\\Tarefa.cs",
+              "ToolTip": "C:\\Users\\i.coutinho.de.lima\\source\\repos\\Treinamento IMPACTA\\ListaDeTarefas\\Projeto4\\Models\\Tarefa.cs",
+              "RelativeToolTip": "Projeto4\\Models\\Tarefa.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:09:17.418Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TarefaController.cs",
+              "DocumentMoniker": "C:\\Users\\i.coutinho.de.lima\\source\\repos\\Treinamento IMPACTA\\ListaDeTarefas\\Projeto4\\Controllers\\TarefaController.cs",
+              "RelativeDocumentMoniker": "Projeto4\\Controllers\\TarefaController.cs",
+              "ToolTip": "C:\\Users\\i.coutinho.de.lima\\source\\repos\\Treinamento IMPACTA\\ListaDeTarefas\\Projeto4\\Controllers\\TarefaController.cs",
+              "RelativeToolTip": "Projeto4\\Controllers\\TarefaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:08:25.419Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TarefaConcluida.cshtml",
+              "DocumentMoniker": "C:\\Users\\i.coutinho.de.lima\\source\\repos\\Treinamento IMPACTA\\ListaDeTarefas\\Projeto4\\Views\\Tarefa\\TarefaConcluida.cshtml",
+              "RelativeDocumentMoniker": "Projeto4\\Views\\Tarefa\\TarefaConcluida.cshtml",
+              "ToolTip": "C:\\Users\\i.coutinho.de.lima\\source\\repos\\Treinamento IMPACTA\\ListaDeTarefas\\Projeto4\\Views\\Tarefa\\TarefaConcluida.cshtml",
+              "RelativeToolTip": "Projeto4\\Views\\Tarefa\\TarefaConcluida.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvw4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T20:36:42.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TarefaFazer.cshtml",
+              "DocumentMoniker": "C:\\Users\\i.coutinho.de.lima\\source\\repos\\Treinamento IMPACTA\\ListaDeTarefas\\Projeto4\\Views\\Tarefa\\TarefaFazer.cshtml",
+              "RelativeDocumentMoniker": "Projeto4\\Views\\Tarefa\\TarefaFazer.cshtml",
+              "ToolTip": "C:\\Users\\i.coutinho.de.lima\\source\\repos\\Treinamento IMPACTA\\ListaDeTarefas\\Projeto4\\Views\\Tarefa\\TarefaFazer.cshtml",
+              "RelativeToolTip": "Projeto4\\Views\\Tarefa\\TarefaFazer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T20:29:50.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Detalhes.cshtml",
+              "DocumentMoniker": "C:\\Users\\i.coutinho.de.lima\\source\\repos\\Treinamento IMPACTA\\ListaDeTarefas\\Projeto4\\Views\\Tarefa\\Detalhes.cshtml",
+              "RelativeDocumentMoniker": "Projeto4\\Views\\Tarefa\\Detalhes.cshtml",
+              "ToolTip": "C:\\Users\\i.coutinho.de.lima\\source\\repos\\Treinamento IMPACTA\\ListaDeTarefas\\Projeto4\\Views\\Tarefa\\Detalhes.cshtml",
+              "RelativeToolTip": "Projeto4\\Views\\Tarefa\\Detalhes.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAUwBYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T17:56:34.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\i.coutinho.de.lima\\source\\repos\\Treinamento IMPACTA\\ListaDeTarefas\\Projeto4\\Views\\Tarefa\\Editar.cshtml",
+              "RelativeDocumentMoniker": "Projeto4\\Views\\Tarefa\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\i.coutinho.de.lima\\source\\repos\\Treinamento IMPACTA\\ListaDeTarefas\\Projeto4\\Views\\Tarefa\\Editar.cshtml",
+              "RelativeToolTip": "Projeto4\\Views\\Tarefa\\Editar.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAADwvx4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T17:39:45.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Criar.cshtml",
+              "DocumentMoniker": "C:\\Users\\i.coutinho.de.lima\\source\\repos\\Treinamento IMPACTA\\ListaDeTarefas\\Projeto4\\Views\\Tarefa\\Criar.cshtml",
+              "RelativeDocumentMoniker": "Projeto4\\Views\\Tarefa\\Criar.cshtml",
+              "ToolTip": "C:\\Users\\i.coutinho.de.lima\\source\\repos\\Treinamento IMPACTA\\ListaDeTarefas\\Projeto4\\Views\\Tarefa\\Criar.cshtml",
+              "RelativeToolTip": "Projeto4\\Views\\Tarefa\\Criar.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAADwvxAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T14:08:10.015Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

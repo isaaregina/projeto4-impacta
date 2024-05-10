@@ -1,0 +1,37 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model Tarefa
+
+<h2>Adicionar Tarefa</h2>
+
+<form asp-action="Criar" method="post">
+    <div class="form-group">
+        <label asp-for="NomeTarefa" class="control-label"></label>
+        <input asp-for="NomeTarefa" class="form-control" />
+        <span asp-validation-for="NomeTarefa" class="text-danger"></span>
+   </div>
+    <br />
+
+    <div class="form-group">
+        <label class="control-label">Status</label>
+        <select class="form-select" asp-for="Status" name="Status">
+            @*<option selected>Por fazer</option>*@
+            <option value="Por Fazer" selected>Por Fazer</option>
+        </select>
+        <span asp-validation-for="Status" class="text-danger"></span>
+    </div>
+    <br />
+
+    <div class="form-group">
+        <label asp-for="DataInicio" class="control-label"></label>
+        <input type="date" asp-for="DataInicio" class="form-control" />
+        <span asp-validation-for="DataInicio" class="text-danger"></span>
+    </div>
+    <br />
+
+    <button type="submit" class="btn btn-primary">Adicionar</button>
+</form>

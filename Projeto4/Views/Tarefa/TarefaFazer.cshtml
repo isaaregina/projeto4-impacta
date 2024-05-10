@@ -1,0 +1,46 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model List<Tarefa>
+
+<h2 class="text-danger">Por Fazer</h2>
+
+<p>
+    <a class="btn btn-sm btn-warning" asp-action="Index">Voltar</a>
+    <a class="btn btn-sm btn-light" asp-action="TarefaConcluida">Ir para Tarefas Concluídas</a>
+</p>
+
+<br />
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>TarefaId</th>
+            <th>Nome</th>
+            <th>Data Início</th>
+            <th>Data Conclusão</th>
+            <th>Status</th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var tarefa in Model)
+        {
+            <tr>
+                <td>@tarefa.TarefaId</td>
+                <td>@tarefa.NomeTarefa</td>
+                <td>@tarefa.DataInicio</td>
+                <td>@tarefa.DataConclusao</td>
+                <td>@tarefa.Status</td>
+                <td>
+                    <a asp-action="Detalhes" asp-route-id="@tarefa.TarefaId" class="btn btn-warning">Detalhes</a>
+                    <a asp-action="Editar" asp-route-id="@tarefa.TarefaId" class="btn btn-info">Editar</a>
+                    <a asp-action="Deletar" asp-route-id="@tarefa.TarefaId" class="btn btn-danger">Deletar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
